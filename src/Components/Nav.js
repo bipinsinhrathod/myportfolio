@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Navigation, navigation } from '../data'
+import {  navigation } from '../data'
 
 import { Link } from 'react-scroll'
 

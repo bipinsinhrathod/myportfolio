@@ -1,9 +1,9 @@
 import React from 'react'
 import { useState ,useEffect } from 'react'
 
-import { Link,animateScroll as scroll } from 'react-scroll'
+import { animateScroll as scroll } from 'react-scroll'
 
-import { CheckCircleIcon, ChevronUpIcon } from '@heroicons/react/outline'
+import {  ChevronUpIcon } from '@heroicons/react/outline'
 
 const BackToTopBtn = () => {
     const [show, setshow] = useState(false)
