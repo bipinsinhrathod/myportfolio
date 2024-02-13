@@ -1,7 +1,5 @@
 import React from "react";
 
-// import Image from "../assets/img/about.webp";
-
 import Bipin from '../assets/b2.png'
 import { Link } from "react-scroll";
 
