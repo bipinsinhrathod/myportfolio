@@ -18,7 +18,7 @@ const Header = () => {
     <>
       <header className={`${bg ?'bg-tertiary h-20':'h-24'} flex items-center fixed top-0 w-full text-white z-10 transition-all duration-300`}>
         <div className="container mx-auto h-full flex items-center justify-between">
-            <a href="#"><h1 className='text-3xl font-body mb-2'>Bipinsinh Rathod</h1></a>
+            <h1 className='text-2xl font-body mb-2'>Bipinsinh Rathod</h1>
             <div className='hidden lg:block'>
                 <Nav/>
             </div>
