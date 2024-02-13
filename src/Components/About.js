@@ -1,6 +1,6 @@
 import React from "react";
 
-import Bipin from '../assets/b2.png'
+import Bipin from '../assets/b3.png'
 import { Link } from "react-scroll";
 
 const About = () => {
